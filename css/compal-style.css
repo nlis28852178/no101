@@ -298,6 +298,17 @@ a:hover {color: #488E48; border-bottom: 0px solid #fff; background: transparent;
 	padding-left: 0px;
 }
 
+#A1_1000 {
+	width: 900px;
+	height: 100px;
+	float: none;
+	margin:  0px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+
 #A1_001 {
 	width: 220px;
 	height: 100px;
@@ -958,11 +969,25 @@ p span {
 	width: 670px;
 }
 
+#info5_t1 {
+	background-image: url(../images/info5_t1.gif);
+	background-repeat: no-repeat;
+	height: 3px;
+	width: 900px;
+}
+
 #info5_h {
 	background-image: url(../images/info5_h.gif);
 	background-repeat: repeat-y;
 	height: 3px;
 	width: 670px;
+}
+
+#info5_h1 {
+	background-image: url(../images/info5_h1.gif);
+	background-repeat: repeat-y;
+	height: 3px;
+	width: 900px;
 }
 
 #info5_b {
@@ -971,6 +996,14 @@ p span {
 	height: 3px;
 	width: 670px;
 }
+
+#info5_b1 {
+	background-image: url(../images/info5_b1.gif);
+	background-repeat: no-repeat;
+	height: 3px;
+	width: 850px;
+}
+
 #info5_t-05 {
 	background-image: url(../images/info_t-05.gif);
 	background-repeat: no-repeat;
